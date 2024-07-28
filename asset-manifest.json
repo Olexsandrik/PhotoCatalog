@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Olexsandrik/PhotoCatalog/static/css/main.df4d82c8.css",
+    "main.js": "/Olexsandrik/PhotoCatalog/static/js/main.7364a833.js",
+    "index.html": "/Olexsandrik/PhotoCatalog/index.html",
+    "main.df4d82c8.css.map": "/Olexsandrik/PhotoCatalog/static/css/main.df4d82c8.css.map",
+    "main.7364a833.js.map": "/Olexsandrik/PhotoCatalog/static/js/main.7364a833.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df4d82c8.css",
+    "static/js/main.7364a833.js"
+  ]
+}
