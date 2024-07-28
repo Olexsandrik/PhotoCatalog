@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/olexsandrik/PhotoCatalog/static/css/main.df4d82c8.css",
-    "main.js": "/olexsandrik/PhotoCatalog/static/js/main.7364a833.js",
-    "index.html": "/olexsandrik/PhotoCatalog/index.html",
-    "main.df4d82c8.css.map": "/olexsandrik/PhotoCatalog/static/css/main.df4d82c8.css.map",
-    "main.7364a833.js.map": "/olexsandrik/PhotoCatalog/static/js/main.7364a833.js.map"
+    "main.css": "/PhotoCatalog/static/css/main.df4d82c8.css",
+    "main.js": "/PhotoCatalog/static/js/main.7364a833.js",
+    "index.html": "/PhotoCatalog/index.html",
+    "main.df4d82c8.css.map": "/PhotoCatalog/static/css/main.df4d82c8.css.map",
+    "main.7364a833.js.map": "/PhotoCatalog/static/js/main.7364a833.js.map"
   },
   "entrypoints": [
     "static/css/main.df4d82c8.css",
